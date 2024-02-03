@@ -13,7 +13,7 @@ In addition, this analysis aims to determine main differences of the three class
 1. K-Nearest Neighbor (K-NN)
 K-Nearest Neighbor is a one of Machine Learning algorithm.
 Although K-NN is one of the simplest learning, but this algorithm has an important role in carrying out deep classification.
-This KNN algorithm falls into the category Supervised Learning.
+This K-NN algorithm falls into the category Supervised Learning.
 K-NN algorithm works based on with the proximity of data to other data and closeness of the distance is measured based on the Euclidean distance.
 
 3. Random Forest Classifier
