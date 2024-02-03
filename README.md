@@ -19,7 +19,7 @@ K-NN algorithm works based on with the proximity of data to other data and close
 3. Random Forest Classifier
 Random Forest Tree is one of machine learning algorithm that goes into the classification and regression.
 Random Forest Tree is an algorithm which is formed from the Decision Tree algorithm.
-This algorithm widely used in various cases such as banking, e-commerce to predict actions and results end, prediction of failure of parts in production, prediction of loan repayment failure, etc.
+This algorithm widely used in various cases such as banking or e-commerce to predict actions and results end, failure of parts in production, loan repayment failure, etc.
 This research will use Random Forest Classifier for classifies the wine data.
 
 ## Journal Link
